@@ -16,6 +16,7 @@ My code can be found [exmple link to code]()
 
 ### Day 1: 
 
+example, here I am connected to the code for [Day 1](https://github.com/robots-make-art-too/100Days/tree/main/Code/Day1)
 
 ### Day 2: 
 
