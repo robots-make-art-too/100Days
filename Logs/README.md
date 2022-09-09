@@ -12,6 +12,10 @@ End date:
 
 My code can be found [exmple link to code]()
 
+>> Just remember that you must change `robots-make-art-too` 
+>> in the links demoed here to your own github account otherwise you
+>> will keep linking to my main template repo, and not your own work!
+
 ---
 
 ### Day 1: 
