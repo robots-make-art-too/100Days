@@ -8,3 +8,7 @@ template for 100 days of code and log
 > the `.gitignore` file is set for python and javascript / nodejs
 
 > if you want to add you own ignore files or folders do so at the top of the `.gitignore` file
+
+---
+
+Link to original `100 Days of Code` [website](https://www.100daysofcode.com/)
