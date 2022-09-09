@@ -7,6 +7,6 @@ remember to organize this folder!
 
 Note that you can also direct link from the [logfile](https://raw.githubusercontent.com/robots-make-art-too/100Days/main/Logs/README.md) to a page here in the code folder for quick reference!
 
-Note differennce between linking to a:
+Note the difference between linking to a:
   - [raw file](https://raw.githubusercontent.com/robots-make-art-too/100Days/main/Logs/README.md)
   - [repo page file](https://github.com/robots-make-art-too/100Days/blob/main/Logs/README.md)
