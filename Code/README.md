@@ -13,5 +13,5 @@ Note the difference between linking to a:
 
 >> ### ! 
 >> Just remember that you must change `robots-make-art-too` in the 
->> links above to your own github account otherwise yoiu will keep 
+>> links above to your own github account otherwise you will keep 
 >> linking to my main template repo, and not your own work!
